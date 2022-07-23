@@ -3,9 +3,8 @@
 <p align="center">
   <img src="https://img.shields.io/twitter/follow/techyteachme?style=for-the-badge&label=%40techyteachme&logo=twitter&logoColor=00AEFF&labelColor=black&color=7fff00">
   </a>
-  <img src ="https://img.shields.io/badge/Zack%20Allen-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/><a href="https://www.linkedin.com/in/zack-a-12749a76/">
-  <a href="https://keybase.io/techy">
-    <img src="https://img.shields.io/keybase/pgp/techy?style=for-the-badge&logoColor=00AEFF&labelColor=black&color=7fff00">
+  <a href="https://www.linkedin.com/in/zack-a-12749a76/"><img src="https://img.shields.io/badge/Zack%20Allen-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://keybase.io/techy"><img src="https://img.shields.io/keybase/pgp/techy?style=for-the-badge&logoColor=00AEFF&labelColor=black&color=7fff00">
   </a>
 </p>
 
